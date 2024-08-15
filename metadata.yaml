@@ -1,5 +1,8 @@
 _repo: The-diary-of-a-Russian-lady-b-reminiscences-of-Barbara-Doukhovskoy-nee-princesse-Galitzine_73953
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73953-h/images/cover.jpg
 creator:
   author:
     agent_name: Dukhovskaia, Varvara
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57285
     wikipedia: https://ru.wikipedia.org/wiki/%D0%94%D1%83%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F,_%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B0_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73953#The-diary-of-a-Russian-lady-b-reminiscences-of-Barbara-Doukhovskoy-nee-princesse-Galitzine
 gutenberg_issued: '2024-06-30'
 gutenberg_type: Text
 identifiers:
